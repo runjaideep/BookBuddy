@@ -1,0 +1,23 @@
+# FastAPI for backend API development
+fastapi==0.100.0
+
+# Uvicorn for running FastAPI server
+uvicorn==0.22.0
+
+# Pydantic for data validation and serialization
+pydantic==1.10.12
+
+# MySQL driver
+mysql-connector-python==8.0.33
+
+# Pandas for data manipulation
+pandas==2.1.1
+
+# Matplotlib for data visualization
+matplotlib==3.8.1
+
+# Streamlit for frontend
+streamlit==1.26.0
+
+# Testing tools
+pytest==7.4.2
