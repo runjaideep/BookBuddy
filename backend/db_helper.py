@@ -79,7 +79,7 @@ def fetch_recommendations(title=None, author=None):
     Fetch recommended books from Google Books API based on a title and optional author.
     """
 
-    GOOGLE_BOOKS_API_KEY = "AIzaSyBbpAAWlJ0nI572GAb5Mjjbm08G0GZuOPE"  # Replace with your API Key
+    GOOGLE_BOOKS_API_KEY = "insert your google books api here. enable before calling"  # Replace with your API Key
 
     query = f"intitle:{title}"
     if author:
