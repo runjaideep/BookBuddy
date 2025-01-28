@@ -1,0 +1,59 @@
+2025-01-13 15:59:15,186 - db_helper - INFO - insert_author called: James Clear
+2025-01-13 16:03:44,529 - db_helper - INFO - insert_author called: James Clear
+2025-01-13 16:03:44,859 - db_helper - INFO - insert_genre called: Productivity
+2025-01-13 17:36:52,412 - db_helper - INFO - insert_author called: Anthony Bordain
+2025-01-13 17:36:52,766 - db_helper - INFO - insert_genre called: Biography
+2025-01-13 17:36:52,781 - db_helper - INFO - insert_book called: Atomic Habits
+2025-01-13 17:47:03,812 - db_helper - INFO - insert_progress called for: 1
+2025-01-13 17:53:05,201 - db_helper - INFO - fetching all books
+2025-01-13 17:53:17,656 - db_helper - INFO - fetching all books
+2025-01-13 17:54:11,615 - db_helper - INFO - fetching all books
+2025-01-13 18:52:04,364 - db_helper - INFO - fetching all books
+2025-01-13 18:58:46,804 - db_helper - INFO - fetching all books
+2025-01-13 19:00:28,387 - db_helper - INFO - fetching all books
+2025-01-13 19:02:26,140 - db_helper - INFO - fetching all books
+2025-01-13 19:02:44,767 - db_helper - INFO - fetching all books
+2025-01-13 19:03:50,144 - db_helper - INFO - fetching all books
+2025-01-13 19:05:22,842 - db_helper - INFO - insert_progress called for: 1
+2025-01-13 19:05:22,992 - db_helper - INFO - fetching all books
+2025-01-18 15:33:03,666 - db_helper - INFO - insert_progress called for: 1
+2025-01-18 15:33:04,289 - db_helper - INFO - fetching all books
+2025-01-18 15:49:41,453 - db_helper - INFO - insert_progress called for: 1
+2025-01-18 15:49:41,661 - db_helper - INFO - fetching all books
+2025-01-18 15:50:14,161 - db_helper - INFO - insert_progress called for: 1
+2025-01-18 15:50:14,424 - db_helper - INFO - fetching all books
+2025-01-18 16:03:37,075 - db_helper - INFO - fetching all books
+2025-01-18 17:50:30,151 - db_helper - INFO - fetching all books
+2025-01-18 17:57:54,115 - db_helper - INFO - fetching all books
+2025-01-18 18:02:39,834 - db_helper - INFO - insert_genre called: Fiction
+2025-01-18 18:02:40,218 - db_helper - INFO - insert_genre called: Non-Fiction
+2025-01-18 18:02:40,232 - db_helper - INFO - insert_genre called: Mystery
+2025-01-18 18:02:40,246 - db_helper - INFO - insert_genre called: Science Fiction
+2025-01-18 18:02:40,258 - db_helper - INFO - insert_genre called: Fantasy
+2025-01-18 18:02:40,271 - db_helper - INFO - insert_genre called: Biography
+2025-01-18 18:03:10,058 - db_helper - INFO - insert_genre called: Fiction
+2025-01-18 18:04:38,064 - db_helper - INFO - insert_genre called: Romance
+2025-01-18 18:04:38,192 - db_helper - INFO - insert_genre called: Horror
+2025-01-18 18:04:38,205 - db_helper - INFO - insert_genre called: Thriller
+2025-01-18 18:15:05,266 - db_helper - INFO - fetching all books
+2025-01-18 18:16:14,704 - db_helper - INFO - insert_progress called for: 1
+2025-01-18 18:16:19,970 - db_helper - INFO - fetching all books
+2025-01-18 18:42:28,444 - db_helper - INFO - fetching all books
+2025-01-18 18:50:22,470 - db_helper - INFO - fetching all books
+2025-01-18 18:51:01,840 - db_helper - INFO - fetching all books
+2025-01-19 07:32:28,246 - db_helper - INFO - insert_progress called for: 1
+2025-01-19 07:32:29,280 - db_helper - INFO - insert_progress called for: 2
+2025-01-19 07:32:29,296 - db_helper - INFO - insert_progress called for: 3
+2025-01-19 07:32:29,311 - db_helper - INFO - insert_progress called for: 4
+2025-01-19 07:32:29,330 - db_helper - INFO - insert_progress called for: 5
+2025-01-19 07:32:29,341 - db_helper - INFO - insert_progress called for: 6
+2025-01-19 07:32:29,350 - db_helper - INFO - insert_progress called for: 7
+2025-01-19 07:32:29,365 - db_helper - INFO - insert_progress called for: 8
+2025-01-19 07:32:29,377 - db_helper - INFO - insert_progress called for: 9
+2025-01-19 07:34:26,249 - db_helper - INFO - fetching all books
+2025-01-19 07:40:55,496 - db_helper - INFO - fetching all books
+2025-01-19 17:23:18,652 - db_helper - INFO - insert_genre called: SciFi
+2025-01-19 17:23:46,285 - db_helper - INFO - fetching all books
+2025-01-25 14:59:24,583 - db_helper - INFO - fetching all books
+2025-01-25 16:08:32,690 - db_helper - INFO - fetching all books
+2025-01-25 16:10:40,816 - db_helper - INFO - insert_genre called: Religion
